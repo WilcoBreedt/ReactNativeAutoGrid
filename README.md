@@ -2,7 +2,7 @@
 Generate a grid with non conflicting colours as a home screen in react native
 
 
-```
+```jsx
 // In App.js in a new project
 
 import React from "react";
